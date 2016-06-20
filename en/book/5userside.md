@@ -5,17 +5,25 @@
 Users can start a quiz by clicking quiz titles in the quiz list or elsewhere such as the header in the result view etc. Guest users, those who haven't logged in to the site, are prompted with an alert that their result will not be recorded in the database nor sent by email.
 
 ###ID prompt
+![](../assets/id-prompt.gif)
+
 Users are then prompted to enter their ID (or names, etc depending on the setting when the quiz was created). This is redundant information because the site username is automatically recorded with the results, but teachers can instruct their students to type some other information as necessary. The quiz will not start properly without typing some text at the prompt.
 
 ###Hint button
+![](../assets/samplequiz.gif)
+
 Sample Quiz
+
 If the quiz was created with the hint feature enabled, a hint button will be displayed. By clicking the button, one letter will be given as a hint in the focused blank in quizzes of the cloze type. Uses of the hint button reduces the final score at the end.
 
 ###Checking answers
 Users can check their answers any time during the attempt. The total score is reduced according to the frequency of answer checking. The perfect answer in the very first check results in a score of 100%. Correct answers will be marked in bold or with some distinct marks, while wrong answers remain for correction. The result of the quiz will not be sent until the user completes the quiz by giving all the right answers.
 
 ###Feedback of the result
+![](../assets/feedback.gif)
+
 Feedback
+
 A new window will pop open when the quiz is done, and the score of the quiz is displayed in the new window along with other information. At this point, the same information is recorded in the database and is sent by email to the registered addresses of the poster and the taker of the quiz.
 
 At the bottom of the window, there is a Close button to close both the quiz and the result window at once.
