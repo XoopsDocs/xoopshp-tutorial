@@ -4,7 +4,8 @@
 
 ![](../assets/toppage.gif)
 
-###Course List
+*Figure #: Course List (User side)*
+
 In the top page of the module, you will see a list of available courses with their brief descriptions, along with the number of quizzes you have already finished and the total number of available quizzes in each course. If you are a module admin, you will see the number of quizzes at least one student has finished in each course instead.
 
 The course titles are linked to the quiz lists, where users can click the title of the quiz and start the quiz.
@@ -13,7 +14,8 @@ The course titles are linked to the quiz lists, where users can click the title 
 Unless you are a guest user, you see a link to your portfolio section at the top right of the course list table. For users, all the past records will be listed in the portfolio, and for admin users, all the records of all the users will be displayed. The quiz title is linked to the corresponding quiz so that users can jump directly to the quiz from the list.
 
 ![](../assets/portfolio-user.gif)
-####User Portfolio
+
+*Figure #: User Portfolio (User side)* 
 
 You can specify a particular course to display results from, and you can sort the record items by clicking the heading in the table.
 
@@ -21,20 +23,23 @@ Admin users can delete record items in the list by clicking the delete button ri
 
 ![](../assets/portfolio-admin.gif)
 
-Admin Portfolio
+*Figure #: User Portfolio (Admin side)*
 
 ##Quiz List
 Quiz ID, title, date and time the quiz was posted, the number of students who finished the quiz, the highest scores of the user and all the users are displayed in the quiz list. If a user has finished a particular quiz at least once, a Result link will be shown in the action column, which will show all the records of the student related to the quiz.
 
 ![](../assets/quizlist-user.gif)
-####User Quiz List
+
+*Figure #: Quiz List (User side)* 
+
 The portfolio link in this section will conveniently takes uses to the list of their records of this particular course.
 
 The admin users additionally see Edit and Delete buttons for each quiz, so that they can replace the quiz content or delete the quiz with all its user records. The result button for the admins will display all the records of all the users for the particular quiz.
 
 
 ![](../assets/quizlist-admin.gif)
-####Admin Quiz List
+
+*Figure #: Quiz List (Admin side)
 
 
 ###Results View
@@ -57,7 +62,7 @@ Users are then prompted to enter their ID (or names, etc depending on the settin
 ###Hint button
 ![](../assets/samplequiz.gif)
 
-Sample Quiz
+*Figure #: Sample Quiz*
 
 If the quiz was created with the hint feature enabled, a hint button will be displayed. By clicking the button, one letter will be given as a hint in the focused blank in quizzes of the cloze type. Uses of the hint button reduces the final score at the end.
 
@@ -67,7 +72,7 @@ Users can check their answers any time during the attempt. The total score is re
 ###Feedback of the result
 ![](../assets/feedback.gif)
 
-Feedback
+*Figure #: Feedback*
 
 A new window will pop open when the quiz is done, and the score of the quiz is displayed in the new window along with other information. At this point, the same information is recorded in the database and is sent by email to the registered addresses of the poster and the taker of the quiz.
 
