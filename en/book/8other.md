@@ -3,6 +3,8 @@
 
 Log in as the site administrator(not as the module admin), and go to the administration menu. Open 'Modules' in 'System Admin' section. In the list of installed modules, change the title of the module as you wish. The title that appears in the main menu will be changed accordingly.
 
+![](../assets/admin-modules.gif)
+
 ###Dead links in the quiz
 The module tries to look into the quiz source and make necessary changes. However, the check is not perfect, and there are things it cannot handle properly. One example is the navigation links embedded when the quiz files were originally created, such as the Index button to go back to the index file, or Previous / Next buttons to navigate through the set of quizzes. These will show as dead links when the quiz files are integrated into XOOPS.
 
