@@ -12,18 +12,24 @@
 
 ## Module Purpose 
 
-This module is for .....
+This module helps you to: 
+
+* Manage Hot Potatoes quiz files on the web
+* Let your students take the quizzes on the web
+* Keep track of your student progress and results
+
+all within the sophisticated environment of XOOPS, so that in combination with other features of XOOPS such as Forum, News, and Download modules, teachers can create their online class portals with little effort and budget. Please read Tips for Teachers for more information.
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the XoopsHP Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/XXX))** 
+**You can fork the module --> [here](https://github.com/XoopsModules25x/xoopshp))** 
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/XXX-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/XXX-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/XXX-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/xoopshp-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/xoopshp-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/xoopshp-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
