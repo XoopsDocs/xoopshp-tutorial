@@ -1,5 +1,50 @@
 # 5.0 The User Side
 
+##Top Page
+
+![](../assets/toppage.gif)
+
+###Course List
+In the top page of the module, you will see a list of available courses with their brief descriptions, along with the number of quizzes you have already finished and the total number of available quizzes in each course. If you are a module admin, you will see the number of quizzes at least one student has finished in each course instead.
+
+The course titles are linked to the quiz lists, where users can click the title of the quiz and start the quiz.
+
+###Portolio
+Unless you are a guest user, you see a link to your portfolio section at the top right of the course list table. For users, all the past records will be listed in the portfolio, and for admin users, all the records of all the users will be displayed. The quiz title is linked to the corresponding quiz so that users can jump directly to the quiz from the list.
+
+![](../assets/portfolio-user.gif)
+####User Portfolio
+
+You can specify a particular course to display results from, and you can sort the record items by clicking the heading in the table.
+
+Admin users can delete record items in the list by clicking the delete button right next to the items.
+
+![](../assets/portfolio-admin.gif)
+
+Admin Portfolio
+
+##Quiz List
+Quiz ID, title, date and time the quiz was posted, the number of students who finished the quiz, the highest scores of the user and all the users are displayed in the quiz list. If a user has finished a particular quiz at least once, a Result link will be shown in the action column, which will show all the records of the student related to the quiz.
+
+![](../assets/quizlist-user.gif)
+####User Quiz List
+The portfolio link in this section will conveniently takes uses to the list of their records of this particular course.
+
+The admin users additionally see Edit and Delete buttons for each quiz, so that they can replace the quiz content or delete the quiz with all its user records. The result button for the admins will display all the records of all the users for the particular quiz.
+
+
+![](../assets/quizlist-admin.gif)
+####Admin Quiz List
+
+
+###Results View
+
+![](../assets/results.gif)
+
+In the result view, there are two display modes: simple view with only basic information, and detailed view with more information such as users' host and IP addresses, etc. Display order can be changed by clicking the header items of the table.
+
+For admin users, a delete button is displayed for each entry in the result list so that they can remove unnecessary entries from the database.
+
 ##Taking a quiz
 ###Starting a quiz
 Users can start a quiz by clicking quiz titles in the quiz list or elsewhere such as the header in the result view etc. Guest users, those who haven't logged in to the site, are prompted with an alert that their result will not be recorded in the database nor sent by email.
