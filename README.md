@@ -18,7 +18,7 @@ This module helps you to:
 * Let your students take the quizzes on the web
 * Keep track of your student progress and results
 
-all within the sophisticated environment XOOPS, so that in combination with other features of XOOPS such as Forum, News, and Download modules, teachers can create their online class portals with little effort and budget. Please read Tips for Teachers for more information.
+all within the sophisticated environment of XOOPS, so that in combination with other features of XOOPS such as Forum, News, and Download modules, teachers can create their online class portals with little effort and budget. Please read Tips for Teachers for more information.
 
 ![image001.png](en/assets/image001.png)
 *Figure 1: Main view of the XoopsHP Module (Admin side)*
