@@ -25,6 +25,6 @@ In the Manage Quizzes section, type the title of the quiz and select the course 
 
 ###Updating the quiz
 
-Preferences
+### Preferences
 
 Go into the edit quiz mode from where the Edit link is available. You can directly edit the title and select a new course, but you cannot edit the content of the quiz source even though it is displayed in the text area for your reference. To replace the quiz content, prepare a new quiz file first, and upload the file to substitute for the existing content.
